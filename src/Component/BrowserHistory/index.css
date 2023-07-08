@@ -1,0 +1,49 @@
+.history-items-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.history-items {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.time {
+  color: #64748b;
+}
+
+.history-container {
+  display: flex;
+  align-items: center;
+}
+
+.history-logo {
+  height: 25px;
+  width: 25px;
+  margin-right: 10px;
+}
+
+.title-container {
+  margin-top: 10px;
+}
+
+.title {
+  color: #475569;
+}
+
+.domain-Url {
+  margin-top: 10px;
+  color: #64748b;
+}
+
+.button {
+  border: 0;
+  background: none;
+  align-self: center;
+}
+
+.delete {
+}
